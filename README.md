@@ -54,5 +54,7 @@ Dados do git
 -->
 
 <div>
-
+ <img align="center" alt="Java" height="200" width="200" src="https://github.com/Hk7rp/Hk7rp/blob/main/scr/scannor.gif" /> 
+ <img align="center" alt="Java" height="70" width="200" src="https://github.com/Hk7rp/Hk7rp/blob/main/scr/beround.gif" /> 
+ <img align="center" alt="Java" height="100" width="55" src="https://github.com/Hk7rp/Hk7rp/blob/main/scr/player.gif" /> 
 </div>
