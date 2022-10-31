@@ -1,4 +1,4 @@
-## Hi there, Pedro here!👋
+## Hi Pedro here!👋
 
 <!--
 Apresentação
