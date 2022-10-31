@@ -58,3 +58,7 @@ Dados do git
  <img align="center" alt="Java" height="70" width="200" src="https://github.com/Hk7rp/Hk7rp/blob/main/scr/beround.gif" /> 
  <img align="center" alt="Java" height="100" width="55" src="https://github.com/Hk7rp/Hk7rp/blob/main/scr/player.gif" /> 
 </div>
+
+##
+
+![snake gif](https://github.com/Hk7rp/Hk7rp/blob/output/github-contribution-grid-snake.svg)
