@@ -9,7 +9,6 @@ Apresentação
 - 💬 Ask about mine, let's talk
 - 📫 How to reach me: 
 -  -> email: pedrohenrique_as3@outlook.com.br
--  -> whatsapp: +55 11 97951-1244
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm the best 8ºBPE soldier and creative game maker
 - 🗣️ If you don't speak english, let's talk in portuguese or spanish! 👌
